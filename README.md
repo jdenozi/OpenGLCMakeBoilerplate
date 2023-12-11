@@ -1,5 +1,8 @@
-# OpenGLTraining
+# OpenGLCMakeBoilerplate
 ![OpenGL Logo](https://www.opengl.org/img/opengl_logo.png)
+
+[![GitHub Release](https://img.shields.io/github/v/release/jdenozi/OpenGLTraining)](https://github.com/your-username/OpenGLTraining/releases)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jdenozi/OpenGLTraining/CI/main)](https://github.com/your-username/OpenGLTraining/actions)
 ## Description
 OpenGLCMakeBoilerplate is a C++ project aimed at providing a boilerplate for OpenGL development using GLFW, GLEW, and GLM. This project is set up with CMake to facilitate easy building and dependency management.
 
